@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+*.db
+*.db-wal
+*.db-shm
+pp5_active_year.txt
+สำรอง*.db
+*.xlsx
+*.pdf
+temp_*
